@@ -1,7 +1,7 @@
 (function ($) {
     "use strict";
     // Initiate the wowjs
-    new WOW().init();
+    // new WOW().init();
 
     // Slide Nav
     window.slide = new SlideNav();
